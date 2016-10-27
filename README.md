@@ -20,10 +20,3 @@ The backend of this site is to be implemented using angular JS and Javascript.
 It would be great if you can help us in our endeavour by your valuable contributions
 
 You can suggest ideas report bugs on Github issue tracker.
-
-
-
-
-
-
-*Note : This site is under development.
