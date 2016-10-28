@@ -3,6 +3,7 @@
 It is website intended for purchase of stamps with an unusual shape.
 Many countries release such stamps for commercial as well as collection purposes.
 
+For more [About unusual stamps](http://unusual-stamps.blogspot.com/)
 
 # Current progress of development 
  
